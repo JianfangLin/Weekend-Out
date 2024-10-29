@@ -4,4 +4,6 @@
 - [ ] hiking boots
 - [ ] water bottle
 - [ ] sleeping pad
-- [ ] extrawarm blanket
+- [ ] blankets
+- [ ] food
+
