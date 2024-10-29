@@ -5,5 +5,5 @@
 - [ ] water bottle
 - [ ] sleeping pad
 - [ ] blankets
-
+- [ ] food
 
